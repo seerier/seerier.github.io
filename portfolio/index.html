@@ -4,17 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Download Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+            background-color: #f8f9fa;
+        }
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .download-buttons a {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 16px;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .pptx-button {
+            background-color: #007bff;
+        }
+        .pdf-button {
+            background-color: #ff8c00; /* 修改为橙色 */
+        }
+        .instructions {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
-<body style="font-family: Arial, sans-serif; text-align: center; margin-top: 20%; background-color: #f8f9fa;">
+<body>
 
     <h1>Download My Portfolio</h1>
-    <p>
-        <a href="Portfolio.pptx" download="Portfolio.pptx" 
-           style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-decoration: none; border-radius: 5px;">
-            Click here to download my portfolio
+    <p class="instructions">Choose your preferred format to download:</p>
+
+    <div class="download-buttons">
+        <a href="portfolio/Portfolio.pptx" download="Portfolio.pptx" class="pptx-button">
+            Download .pptx Format
         </a>
-    </p>
+        <a href="portfolio/Portfolio.pdf" download="Portfolio.pdf" class="pdf-button">
+            Download .pdf Format
+        </a>
+    </div>
 
 </body>
 </html>
-
