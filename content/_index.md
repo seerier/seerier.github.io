@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-12-14
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/GaoxiangZhao-resume.pdf
       headings:
         about: ''
         education: ''
@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm broadly interested in computer graphics and computer vision. My overarching research objective is to create a virtual physical world for people to perceive and interact, also for embidied agent training. My past interest was physically-based rendering. At that time, I wanted to simulate the physical light transport through different scenes.
+        I'm broadly interested in Computer Graphics, Computer Vision, and Robotics. My overarching research objective is to create a virtual physical world for people to perceive and interact, also for embidied agent training. My past interest was physically-based rendering. At that time, I interest was to simulate the physical light transport through different scenes.
     design:
       columns: '1'
   - block: collection
