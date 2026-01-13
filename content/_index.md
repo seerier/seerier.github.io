@@ -86,8 +86,8 @@ sections:
           - projects
         exclude_featured: false
     design:
-      view: article-grid  # 或者 card, showcase
-      columns: 2
+      view: showcase  # 或者 card, showcase
+      columns: 1
 
   - block: collection
     id: talks
