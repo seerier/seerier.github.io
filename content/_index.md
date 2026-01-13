@@ -37,9 +37,9 @@ sections:
         
         My current research focuses on **event-based computer vision** and its applications in robotics at the University of Pennsylvania, advised by Prof. Kostas Daniilidis.
         
-        Previously, I worked on **physically-based rendering** and **high-performance GPU Monte-Carlo ray tracing**, exploring how to accurately simulate physical light transport through complex scenes. I'm particularly interested in bridging the gap between photorealistic rendering and robotic perception.
+        Previously, I worked on **physically-based rendering** and **physical simulation**, exploring how to accurately simulate physical light transport through complex scenes.
         
-        My overarching goal is to create realistic virtual physical worlds that enable better perception, interaction, and embodied agent training.
+        My overarching goal is to advance robotic perception and embodied intelligence through physics-grounded simulation and learning.
     design:
       columns: '1'
 
@@ -97,6 +97,20 @@ sections:
         - Conducted convergence analysis between discretized RGB and full-spectrum continuous models
     design:
       columns: '1'
+
+  - block: collection
+    id: projects
+    content:
+      title: '🚀 Selected Projects'
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - projects
+        exclude_featured: false
+    design:
+      view: article-grid  # 或者 card, showcase
+      columns: 2
 
   - block: collection
     id: talks
