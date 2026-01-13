@@ -12,7 +12,7 @@ external_link: ''
 image:
   caption: 'Cornell Box'
   focal_point: Smart
-  filename: featured.png  # 放在同目录下
+  filename: featured.png
 
 links:
   - icon: github

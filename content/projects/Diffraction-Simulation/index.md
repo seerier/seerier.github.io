@@ -11,7 +11,7 @@ date: '2024-07-21'
 image:
   caption: 'Diffraction Pattern Simulation'
   focal_point: Smart
-  filename: featured.png  # 请确保该目录下有一张名为 featured.png 的图片
+  filename: featured.png
 
 links:
   - icon: github
