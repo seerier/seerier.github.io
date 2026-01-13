@@ -79,8 +79,6 @@ sections:
     id: projects
     content:
       title: 'Selected Projects'
-      subtitle: ''
-      text: ''
       filters:
         folders:
           - projects
