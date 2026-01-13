@@ -58,23 +58,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: '🚀 Selected Projects'
-      subtitle: ''
-      text: |-
-        **Monte-Carlo Rendering Engine** | *December 2023 – January 2025*
-        - Developed a high-performance C++ simulation engine solving high-dimensional light transport equations via Monte-Carlo integration
-        - Implemented advanced variance reduction techniques (Importance Sampling, MIS) and stochastic algorithms (Path Tracing, Bidirectional Path Tracing, Metropolis-Hastings Light Transport)
-        - Optimized performance through multithreading and efficient memory management
-        
-        **Diffraction Simulation** | *June 2024 – August 2024*
-        - Reproduced complex wave optics models to simulate light diffraction using numerical methods
-        - Integrated wave-based optics into Monte-Carlo raytracing framework
-        - Conducted convergence analysis between discretized RGB and full-spectrum continuous models
-    design:
-      columns: '1'
-
   - block: collection
     id: projects
     content:
@@ -85,38 +68,3 @@ sections:
     design:
       view: card
       fill_image: false
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-      fill_image: false
-
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
----
