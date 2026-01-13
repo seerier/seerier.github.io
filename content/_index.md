@@ -86,8 +86,7 @@ sections:
           - projects
         exclude_featured: false
     design:
-      view: showcase
-      columns: 1
+      view: card
 
   - block: collection
     id: talks
