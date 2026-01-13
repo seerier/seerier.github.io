@@ -87,6 +87,7 @@ sections:
         exclude_featured: false
     design:
       view: showcase  # 或者 card, showcase
+      columns: 1
 
   - block: collection
     id: talks
