@@ -86,8 +86,7 @@ sections:
           - projects
         exclude_featured: false
     design:
-      view: article-grid
-      fill_image: false
+      view: showcase
       columns: 1
 
   - block: collection
