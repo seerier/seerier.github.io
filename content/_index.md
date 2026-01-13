@@ -78,13 +78,12 @@ sections:
   - block: collection
     id: projects
     content:
-      title: '🚀 Selected Projects'
+      title: 'Selected Projects'
       subtitle: ''
       text: ''
       filters:
         folders:
           - projects
-        exclude_featured: false
     design:
       view: card
 
