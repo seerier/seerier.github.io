@@ -25,6 +25,11 @@ url_slides: ''
 url_video: ''
 ---
 
-- Developed a high-performance C++ simulation engine solving high-dimensional light transport equations via Monte-Carlo integration.
-- Implemented advanced variance reduction techniques (Importance Sampling, MIS) and stochastic algorithms (Path Tracing, Bidirectional Path Tracing, Metropolis-Hastings Light Transport)
-- Optimized performance through multithreading and efficient memory management
+• Developed ahigh-performance simulation engine in C++ to solve high-dimensional light transport
+equations via Monte-Carlo integration.
+• Utilized variance reduction techniques including Importance Sampling and Multiple Importance
+Sampling (MIS) to optimize convergence rates.
+• ImplementedadvancedalgorithmsincludingPathTracing, BidirectionalPathTracing(BDPT),and
+Stochastic Progressive Photon Mapping (SPPM) for complex global illumination.
+• Optimized performance via multi-threaded ray tracing, BVH acceleration structures, and arena
+based memory allocation for large-scale rendering.

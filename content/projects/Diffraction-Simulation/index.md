@@ -20,6 +20,9 @@ links:
     url: https://github.com/seerier/Diffraction-Simulation
 ---
 
-- [cite_start]Reproduced complex wave optics models to simulate light diffraction using numerical methods[cite: 34].
-- [cite_start]Solved Fraunhofer diffraction equations by integrating wave-based optics into a Monte-Carlo ray-tracing framework[cite: 34].
-- [cite_start]Conducted comparative convergence analysis between discretized RGB models and full-spectrum continuous models to validate wave-particle duality simulation[cite: 35].
+• Implemented wave-optical rendering framework for physical light transport simulation beyond ge
+ometric optics.
+• Derived closed-form edge-based Fraunhofer diffraction formulation, enabling free-space diffrac
+tion in path tracing without phase-carrying rays.
+• Conducted convergence analysis comparing discretized RGB and continuous spectral wave
+length models.
