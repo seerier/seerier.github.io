@@ -12,7 +12,7 @@ external_link: ''
 image:
   caption: 'Monte-Carlo Path Tracing'
   focal_point: Smart
-  filename: featured.jpg  # 放在同目录下
+  filename: featured.png  # 放在同目录下
 
 links:
   - icon: github
