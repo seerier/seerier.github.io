@@ -5,7 +5,7 @@ tags:
   - Computer Graphics
   - C++
   - Rendering
-date: '2023-12-01'
+date: '2024-11-17'
 external_link: ''
 
 # Featured image
@@ -25,11 +25,7 @@ url_slides: ''
 url_video: ''
 ---
 
-• Developed ahigh-performance simulation engine in C++ to solve high-dimensional light transport
-equations via Monte-Carlo integration.
-• Utilized variance reduction techniques including Importance Sampling and Multiple Importance
-Sampling (MIS) to optimize convergence rates.
-• ImplementedadvancedalgorithmsincludingPathTracing, BidirectionalPathTracing(BDPT),and
-Stochastic Progressive Photon Mapping (SPPM) for complex global illumination.
-• Optimized performance via multi-threaded ray tracing, BVH acceleration structures, and arena
-based memory allocation for large-scale rendering.
+- Developed a high-performance simulation engine in C++ to solve high-dimensional light transport equations via Monte-Carlo integration.
+- Utilized variance reduction techniques including Importance Sampling and Multiple Importance Sampling (MIS) to optimize convergence rates.
+- Implemented advanced algorithms including Path Tracing, Bidirectional Path Tracing(BDPT), and Stochastic Progressive Photon Mapping (SPPM) for complex global illumination.
+- Optimized performance via multi-threaded ray tracing, BVH acceleration structures, and arena based memory allocation for large-scale rendering.

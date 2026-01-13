@@ -5,7 +5,7 @@ tags:
   - Computer Graphics
   - Optics
   - C++
-date: '2024-06-01'
+date: '2024-07-21'
 
 # Featured image
 image:
@@ -20,9 +20,6 @@ links:
     url: https://github.com/seerier/Diffraction-Simulation
 ---
 
-• Implemented wave-optical rendering framework for physical light transport simulation beyond ge
-ometric optics.
-• Derived closed-form edge-based Fraunhofer diffraction formulation, enabling free-space diffrac
-tion in path tracing without phase-carrying rays.
-• Conducted convergence analysis comparing discretized RGB and continuous spectral wave
-length models.
+- Implemented wave-optical rendering framework for physical light transport simulation beyond geometric optics.
+- Derived closed-form edge-based Fraunhofer diffraction formulation, enabling free-space diffraction in path tracing without phase-carrying rays.
+- Conducted convergence analysis comparing discretized RGB and continuous spectral wavelength models.
