@@ -86,7 +86,7 @@ sections:
           - projects
         exclude_featured: false
     design:
-      view: showcase  # 或者 card, showcase
+      view: article-grid
       fill_image: false
       columns: 1
 
