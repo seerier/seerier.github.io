@@ -12,6 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
+      text: A collection of engineering projects focusing on physically-based graphics and simulation.
       filters:
         folders:
           - projects
