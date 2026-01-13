@@ -84,6 +84,7 @@ sections:
           - projects
     design:
       view: card
+      fill_image: false
 
   - block: collection
     id: talks
