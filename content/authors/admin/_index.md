@@ -133,4 +133,4 @@ awards:
 ---
 
 
-I'm Gaoxiang Zhao, a Master’s student in Scientific Computing at the University of Pennsylvania. I am currently a Research Intern in Prof. Kostas Daniilidis's group, focusing on event-based computer vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Embodied AI.
+I'm Gaoxiang Zhao, a Master’s student in Scientific Computing at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based computer vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Robotics.
