@@ -50,12 +50,10 @@ sections:
       text: |-
         **Research Intern** | University of Pennsylvania  
         *December 2025 – Present | Philadelphia, USA*  
-
         Working on event-based computer vision and its applications in robotics under the supervision of Prof. Kostas Daniilidis.
         
         **Research Intern** | ZJU-Coohom Joint Lab of CG&AI  
         *August 2024 – November 2024 | Hangzhou, China*  
-        
         Explored cutting-edge algorithms in high-performance GPU Monte-Carlo ray tracing.
     design:
       columns: '1'

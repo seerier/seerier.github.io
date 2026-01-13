@@ -51,9 +51,9 @@ education:
   - area: MS Scientific Computing
     institution: University of Pennsylvania
     date_start: 2025-08-22
-    date_end: 2027-05-31
+    date_end: 2027-05-28
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.90/4.0
 
       Specialized in machine learning and robotics.
   - area: BS Communication Engineering
@@ -133,4 +133,4 @@ awards:
 ---
 
 
-I'm Gaoxiang Zhao, a first-year master student in Scientific Computing at University of Pennsylvania. My interest lies in Computer Graphics, Computer Vision and Machine Learning. Thank you for visiting my webpage!
+I'm Gaoxiang Zhao, a Master’s student in Scientific Computing at the University of Pennsylvania. I am currently a Research Intern in Prof. Kostas Daniilidis's group, focusing on event-based computer vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Embodied AI.
