@@ -58,6 +58,30 @@ sections:
     design:
       columns: '1'
 
+  - block: experience
+    content:
+      title: '💼 Experience'
+      # 宾夕法尼亚大学经历
+      - company: University of Pennsylvania
+        company_url: ''
+        company_logo: '' # 如果你有图标，可以放入 assets/media/ 并写上文件名
+        location: Philadelphia, USA
+        title: Research Intern
+        date_start: '2025-12-01'
+        date_end: '' # 留空显示为 "Present"
+        description: Working on event-based computer vision and its applications in robotics under the supervision of Prof. Kostas Daniilidis.
+      # 浙江大学-酷家乐联合实验室经历
+      - company: ZJU-Coohom Joint Lab of CG&AI
+        company_url: ''
+        company_logo: ''
+        location: Hangzhou, China
+        title: Research Intern
+        date_start: '2024-08-01'
+        date_end: '2024-11-01'
+        description: Explored cutting-edge algorithms in high-performance GPU Monte-Carlo ray tracing.
+    design:
+      columns: '1'
+
   - block: collection
     id: projects
     content:
@@ -68,5 +92,5 @@ sections:
     design:
       view: card
       fill_image: false
-      
+
 ---
