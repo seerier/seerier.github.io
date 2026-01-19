@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Resume
         url: uploads/GaoxiangZhao-resume.pdf
       headings:
         about: ''
