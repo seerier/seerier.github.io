@@ -48,7 +48,7 @@ interests:
 
 education:
 
-  - area: MS Scientific Computing
+  - area: MSE in Scientific Computing
     institution: University of Pennsylvania
     date_start: 2025-08-22
     date_end: 2027-05-28
@@ -56,7 +56,7 @@ education:
       GPA: 3.90/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Communication Engineering
+  - area: BEng in Communication Engineering
     institution: Wuhan University
     date_start: 2021-09-01
     date_end: 2025-07-01
