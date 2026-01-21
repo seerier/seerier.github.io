@@ -20,8 +20,11 @@ url_slides: ''
 url_video: ''
 ---
 
-Below is the demonstration of the Forward Kinematics (FK) system using motion capture data:
+Below is the demonstration of the Forward Kinematics (FK) system in a dancing motion:
 ![FK Dance](FK-Dance.png)
 
-For the Inverse Kinematics (IK) part, I implemented a Jacobian-based solver to control the end-effector:
-{{< figure src="IK.png" caption="Inverse Kinematics Demo" >}}
+For the Inverse Kinematics (IK) part, I implemented Limb-based IK, CCD, and Pseudo Inverse:
+![IK](IK.png)
+
+I also played with unity plugin:
+![UnityPlugin](UnityPlugin.png)
