@@ -21,3 +21,4 @@ url_video: ''
 ---
 
 ![FK Dance](FK-Dance.png)
+{{< figure src="IK.png" caption="Inverse Kinematics" >}}
