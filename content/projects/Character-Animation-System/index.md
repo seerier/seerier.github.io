@@ -14,10 +14,7 @@ image:
   focal_point: Smart
   filename: featured.png
 
-image:
-  caption: 'FK-Dance'
-  focal_point: Smart
-  filename: FK-Dance.png
+![FK Dance](FK-Dance.png)
 
 url_code: ''
 url_pdf: ''
