@@ -28,3 +28,5 @@ For the Inverse Kinematics (IK) part, I implemented Limb-based IK, CCD, and Pseu
 
 I also played with unity plugin:
 ![UnityPlugin](UnityPlugin.png)
+
+![UPenn-MotionCapture-System](UPenn-MotionCapture-System.jpg)
