@@ -14,11 +14,6 @@ image:
   focal_point: Smart
   filename: featured.png
 
-links:
-  - icon: github
-    icon_pack: fab
-    name: Source Code
-    url: https://github.com/seerier/Xeno
 url_code: ''
 url_pdf: ''
 url_slides: ''
