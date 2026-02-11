@@ -35,7 +35,7 @@ sections:
       text: |-
         I'm broadly interested in **Computer Graphics**, **Computer Vision**, and **Robotics**. 
         
-        My current research focuses on **event-based vision** and its applications in robotics at the University of Pennsylvania, advised by Prof. Kostas Daniilidis.
+        My current research focuses on **event-based computer vision** and its applications in robotics at the University of Pennsylvania, advised by Prof. Kostas Daniilidis.
         
         Previously, I worked on **physically-based rendering** and **physical simulation**, exploring how to accurately simulate physical light transport through complex scenes.
         
