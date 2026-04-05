@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: '🚀'
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,6 +38,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/seerier
+    label: GitHub
 
 
 interests:
@@ -60,7 +61,6 @@ education:
     institution: Wuhan University
     date_start: 2021-09-01
     date_end: 2025-07-01
-    summary: |
 
 work:
   - position: Senior AI Research Scientist
@@ -69,7 +69,7 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
     company_name: OpenAI
