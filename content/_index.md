@@ -50,7 +50,7 @@ sections:
       text: |-
         **Research Intern | University of Pennsylvania**  
         *December 2025 – Present | Philadelphia, USA*  
-        Working on event-based computer vision and its applications in robotics under the supervision of Prof. Kostas Daniilidis.
+        Developing event camera solutions for real-time robotic manipulation under the supervision of Prof. Kostas Daniilidis.
 
         **Research Intern | Manycore Tech**    
         *August 2024 – November 2024 | Hangzhou, China*  
