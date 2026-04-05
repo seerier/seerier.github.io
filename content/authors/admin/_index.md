@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: First-year Master Student
+role: Robotics Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
