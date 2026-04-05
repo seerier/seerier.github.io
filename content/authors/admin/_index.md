@@ -49,36 +49,34 @@ interests:
 
 education:
 
-  - area: MSE Scientific Computing
+  - area: MS in Robotics
     institution: University of Pennsylvania
     date_start: 2025-08-22
     date_end: 2027-05-28
     summary: |
-      GPA: 3.90/4.0
-
-      Specialized in machine learning and robotics.
+      Related Courses: Machine Learning, Learning in Robotics, Physical Intelligence
   - area: BEng Communication Engineering
     institution: Wuhan University
     date_start: 2021-09-01
     date_end: 2025-07-01
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Intern
+    company_name: University of Pennsylvania
+    company_url: 'https://www.upenn.edu/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-12-01
     date_end: ''
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Working on event-based vision and its applications in robotics. Advised by Prof. Kostas Daniilidis.
+  - position: Research Intern
+    company_name: Manycore Tech
+    company_url: ''
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-08-01
+    date_end: 2024-11-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on cutting-edge algorithms in high-performance GPU Monte-Carlo ray tracing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -108,29 +106,8 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+awards: []
 ---
 
 
-I'm Gaoxiang Zhao, a Master’s student in Scientific Computing at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Robotics.
+I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Robotics.

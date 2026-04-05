@@ -1,6 +1,6 @@
 ---
-title: Monte-Carlo Rendering Engine
-summary: A multithreaded C++ ray tracing engine for physically-based rendering
+title: Physically-based Renderer
+summary: A multithreaded C++ Monte Carlo renderer implementing path tracing, BDPT, and photon mapping.
 tags:
   - Computer Graphics
   - C++
@@ -19,8 +19,12 @@ links:
     icon_pack: fab
     name: Source Code
     url: https://github.com/seerier/Xeno
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 ---
+
+A physically-based Monte Carlo renderer written in C++, named after the Xenoblade game series. It solves the rendering equation via multiple light transport algorithms:
+
+- **Path Tracing** with multiple importance sampling (MIS)
+- **Bidirectional Path Tracing (BDPT)** for scenes with complex indirect lighting
+- **Stochastic Progressive Photon Mapping (SPPM)** for specular-diffuse-specular light paths
+
+The renderer features multithreaded execution and JSON-based scene configuration.
