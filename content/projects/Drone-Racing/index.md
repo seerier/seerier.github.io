@@ -10,7 +10,7 @@ external_link: ''
 
 # Featured image
 image:
-  caption: 'Drone Racing Simulation in Isaac Lab'
+  caption: 'Real-world deployment on circle track'
   focal_point: Smart
   filename: featured.png
   preview_only: true
@@ -21,6 +21,10 @@ links:
     name: Source Code
     url: https://github.com/seerier/Drone-Racing
 ---
+
+{{< video src="circlereal.mp4" controls="yes" >}}
+
+{{< video src="bestcircle.mp4" controls="yes" >}}
 
 {{< video src="horizontal.mp4" controls="yes" >}}
 
