@@ -10,7 +10,7 @@ external_link: ''
 
 # Featured image
 image:
-  caption: 'Real-world deployment on circle track'
+  caption: 'Real-world power loop trajectory through a multi-gate track'
   focal_point: Smart
   filename: featured.png
   preview_only: true
@@ -21,6 +21,8 @@ links:
     name: Source Code
     url: https://github.com/seerier/Drone-Racing
 ---
+
+{{< video src="powerloop.mp4" controls="yes" >}}
 
 {{< video src="circlereal.mp4" controls="yes" >}}
 
