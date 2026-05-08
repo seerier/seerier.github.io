@@ -1,9 +1,9 @@
 ---
-title: Character-Animation-System
-summary: A Character animation system integrated FK/IK solver.
+title: Forward and Inverse Kinematics Solver
+summary: A C++ kinematics toolkit with forward/inverse kinematics, quaternion-based orientation interpolation, and three IK solvers.
 tags:
   - Character Animation
-  - Motion Capture
+  - Kinematics
   - C++
 date: '2025-11-11'
 external_link: ''
@@ -20,13 +20,15 @@ url_slides: ''
 url_video: ''
 ---
 
-Below is the demonstration of the Forward Kinematics (FK) system in a dancing motion:
+A C++ kinematics toolkit supporting forward and inverse kinematics with quaternion-based orientation interpolation. Three IK solvers are implemented: Limb-based, CCD (Cyclic Coordinate Descent), and Pseudo-Inverse Jacobian.
+
+Demonstration of the Forward Kinematics (FK) system in a dancing motion:
 ![FK Dance](FK-Dance.png)
 
-For the Inverse Kinematics (IK) part, I implemented Limb-based IK, CCD, and Pseudo Inverse:
+Inverse Kinematics (IK) using Limb-based, CCD, and Pseudo-Inverse Jacobian solvers:
 ![IK](IK.png)
 
-I also played with unity plugin:
+Unity plugin integration:
 ![UnityPlugin](UnityPlugin.png)
 
 UPenn Motion Capture System:

@@ -1,6 +1,6 @@
 ---
-title: Drone Racing with Deep Reinforcement Learning
-summary: A PPO-based deep RL pipeline in Isaac Lab to train a Crazyflie quadrotor for autonomous multi-gate 3D drone racing.
+title: Sim2Real Drone Racing with Deep RL
+summary: A PPO-based RL pipeline in Isaac Lab that trains a Crazyflie 2.1 to fly autonomous 3-lap, 7-gate races, with zero-shot sim-to-real transfer.
 tags:
   - Reinforcement Learning
   - Robotics
@@ -30,8 +30,9 @@ links:
 
 {{< video src="horizontal.mp4" controls="yes" >}}
 
-Trained a quadrotor to autonomously race a multi-gate 3D track at high speed using PPO in NVIDIA Isaac Lab, with massively parallel simulation on a single GPU.
+Trained a Crazyflie 2.1 quadrotor to autonomously race a 7-gate 3D track at high speed using PPO in NVIDIA Isaac Lab, with 8,192 parallel environments on a single GPU.
 
 Key technical contributions:
-- Asymmetric actor-critic architecture with multi-component reward shaping and curriculum learning for progressive skill acquisition from basic flight to aggressive racing.
-- Domain randomization over physical dynamics parameters with independent curriculum scheduling to improve policy robustness, designed for future sim-to-real transfer.
+- PPO pipeline with a 36D body-frame observation (velocity, rotation matrix, gate corners) and a 10-term reward function shaping progress, attitude, and gate traversal.
+- Zero-shot sim-to-real transfer via dynamics domain randomization (thrust-to-weight, drag, PID gains) and three iteration-conditioned curricula (approach distance, DR magnitude, speed reward weighting).
+- Completed 3 laps in 20 s on a real Crazyflie 2.1, matching simulation behavior without on-hardware fine-tuning.
