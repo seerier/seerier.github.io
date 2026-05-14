@@ -42,14 +42,13 @@ profiles:
 
 
 interests:
+  - Robotic Learning
+  - 3D Vision
   - Computer Graphics
-  - Computer Vision
-  - Machine Learning
-  - Embodied AI
 
 education:
 
-  - area: MS in Robotics
+  - area: MSE in Robotics
     institution: University of Pennsylvania
     date_start: 2025-08-22
     date_end: 2027-05-28
@@ -68,7 +67,7 @@ work:
     date_start: 2025-12-01
     date_end: ''
     summary: |
-      Working on event-based vision and its applications in robotics. Advised by Prof. Kostas Daniilidis.
+      Working on event cameras and robotics with Prof. Kostas Daniilidis.
   - position: Research Intern
     company_name: Manycore Tech
     company_url: ''
@@ -76,7 +75,7 @@ work:
     date_start: 2024-08-01
     date_end: 2024-11-30
     summary: |
-      Worked on cutting-edge algorithms in high-performance GPU Monte-Carlo ray tracing.
+      Developed Monte-Carlo physically-based rendering algorithms for a production-scale rendering pipeline supporting photorealistic synthetic data generation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
