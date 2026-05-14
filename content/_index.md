@@ -33,13 +33,13 @@ sections:
       title: '🔬 My Research'
       subtitle: ''
       text: |-
-        I'm broadly interested in **Computer Graphics**, **Computer Vision**, and **Robotics**. 
-        
-        My current research focuses on **event-based vision** at the University of Pennsylvania, advised by Prof. Kostas Daniilidis.
-        
-        Previously, I worked on **physically-based rendering** and **physical simulation**, exploring how to accurately simulate physical light transport through complex scenes.
-        
-        My overarching goal is to advance robotic perception and embodied intelligence through physics-grounded simulation and learning.
+        I'm broadly interested in **Robotic Learning**, **3D Vision**, and **Simulation**.
+
+        At Penn, I work on robotics with Prof. Kostas Daniilidis. My current project is on **event-based vision**, and I've also worked on **sim-to-real reinforcement learning** for agile flight.
+
+        During my undergrad, I worked on **physically-based rendering** and **light transport simulation**. At that time, my dream was to create a virtual world with accurate physics and geometry.
+
+        Now, I want to help robots better understand the **physics and geometry** of the world, whether through simulation or beyond it.
     design:
       columns: '1'
 
@@ -50,11 +50,11 @@ sections:
       text: |-
         **Research Intern | University of Pennsylvania**  
         *December 2025 – Present | Philadelphia, USA*  
-        Developing event camera solutions for real-time robotic manipulation under the supervision of Prof. Kostas Daniilidis.
+        Working on event cameras and robotics with Prof. Kostas Daniilidis.
 
         **Research Intern | Manycore Tech**    
         *August 2024 – November 2024 | Hangzhou, China*  
-        Worked on cutting-edge algorithms in high-performance GPU Monte-Carlo ray tracing.
+        Developed Monte-Carlo physically-based rendering algorithms for a production-scale rendering pipeline supporting photorealistic synthetic data generation.
     design:
       columns: '1'
 
