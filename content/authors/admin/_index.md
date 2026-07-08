@@ -42,7 +42,7 @@ profiles:
 
 
 interests:
-  - Robotic Learning
+  - Robot Learning
   - 3D Vision
   - Computer Graphics
 
