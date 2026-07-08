@@ -1,5 +1,5 @@
 ---
-title: Sim2Real Drone Racing with Deep RL
+title: Sim2Real Drone Racing with Deep RL (ESE 6510)
 summary: A PPO-based RL pipeline in Isaac Lab that trains a Crazyflie 2.1 to fly autonomous 3-lap, 7-gate races, with zero-shot sim-to-real transfer.
 tags:
   - Reinforcement Learning
