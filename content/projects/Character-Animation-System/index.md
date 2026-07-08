@@ -1,5 +1,5 @@
 ---
-title: Forward and Inverse Kinematics Solver
+title: Forward and Inverse Kinematics Solver (CIS 5620)
 summary: A C++ kinematics toolkit with forward/inverse kinematics, quaternion-based orientation interpolation, and three IK solvers.
 tags:
   - Character Animation
