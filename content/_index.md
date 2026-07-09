@@ -35,7 +35,7 @@ sections:
       text: |-
         I'm broadly interested in **Robot Learning**, **3D Vision**, and **Simulation**.
 
-        At Penn, I work on robotics with Prof. Kostas Daniilidis. My current project is on **event-based vision**.
+        At Penn, I work on computer vision and robotics with Prof. Kostas Daniilidis. My current project is on **event-based vision**.
 
         During my undergrad, I worked on **physically-based rendering** and **light transport simulation**. At that time, my dream was to create a virtual world with accurate physics and geometry.
 
