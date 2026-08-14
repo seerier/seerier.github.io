@@ -61,6 +61,14 @@ education:
 
 work:
   - position: Research Intern
+    company_name: Tencent
+    company_url: 'https://www.tencent.com/'
+    company_logo: ''
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |
+      Working on 3D scene generation and world model data generation.
+  - position: Research Intern
     company_name: University of Pennsylvania
     company_url: 'https://www.upenn.edu/'
     company_logo: ''
@@ -109,4 +117,4 @@ awards: []
 ---
 
 
-I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based vision and its applications in robotics. My broader research interests include Computer Graphics, Computer Vision, and Robotics.
+I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based vision and its applications in robotics. My broader research interests include Robotics, Computer Graphics, and Computer Vision.

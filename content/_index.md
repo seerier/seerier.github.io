@@ -48,6 +48,10 @@ sections:
       title: '💼 Experience'
       subtitle: ''
       text: |-
+        **Research Intern | Tencent**  
+        *June 2026 – Present | Shenzhen, China*  
+        Working on 3D scene generation and world model data generation.
+
         **Research Intern | University of Pennsylvania**  
         *December 2025 – Present | Philadelphia, USA*  
         Working on event cameras and robotics with Prof. Kostas Daniilidis.
