@@ -49,8 +49,8 @@ sections:
       subtitle: ''
       text: |-
         **Research Intern | Tencent**  
-        *June 2026 – Present | Shenzhen, China*  
-        Working on 3D scene generation and world model data generation.
+        *June 2026 – August 2026 | Shenzhen, China*  
+        Worked on agentic 3D scene generation and 3D asset generation.
 
         **Research Intern | University of Pennsylvania**  
         *December 2025 – Present | Philadelphia, USA*  
