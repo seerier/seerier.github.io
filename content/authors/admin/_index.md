@@ -65,9 +65,9 @@ work:
     company_url: 'https://www.tencent.com/'
     company_logo: ''
     date_start: 2026-06-01
-    date_end: ''
+    date_end: 2026-08-31
     summary: |
-      Working on 3D scene generation and world model data generation.
+      Worked on agentic 3D scene generation and 3D asset generation.
   - position: Research Intern
     company_name: University of Pennsylvania
     company_url: 'https://www.upenn.edu/'
