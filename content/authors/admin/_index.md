@@ -117,4 +117,4 @@ awards: []
 ---
 
 
-I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I am currently a Research Intern under the supervision of Prof. Kostas Daniilidis, focusing on event-based vision and its applications in robotics. My broader research interests include Robotics, Computer Graphics, and Computer Vision.
+I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I work with Prof. Kostas Daniilidis on event-based vision and its applications in robotics. My broader research interests include Robotics, Computer Graphics, and Computer Vision.
