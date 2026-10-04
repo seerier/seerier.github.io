@@ -33,28 +33,25 @@ sections:
       title: '🔬 My Research'
       subtitle: ''
       text: |-
-        I'm broadly interested in **Robot Learning**, **3D Vision**, and **Simulation**.
+        I’m broadly interested in **Robot Learning**, **Graphics** and **3D Vision**.
 
-        At Penn, I work on computer vision and robotics with Prof. Kostas Daniilidis. My current project is on **event-based vision**.
+        Currently I'm working on some intersections of computer graphics and modern robot learning.
 
-        During my undergrad, I worked on **physically-based rendering** and **light transport simulation**. At that time, my dream was to create a virtual world with accurate physics and geometry.
+        During my undergrad, I worked on physically-based rendering and light transport simulation. At that time, my dream was to create a virtual world with accurate physics and geometry.
 
         Now, I want to help robots better understand the **physics and geometry** of the world, whether through simulation or beyond it.
     design:
       columns: '1'
 
   - block: markdown
+    id: internship-experience
     content:
-      title: '💼 Experience'
+      title: '💼 Internship Experience'
       subtitle: ''
       text: |-
         **Research Intern | Tencent**  
         *June 2026 – August 2026 | Shenzhen, China*  
         Worked on agentic 3D scene generation and 3D asset generation.
-
-        **Research Intern | University of Pennsylvania**  
-        *December 2025 – Present | Philadelphia, USA*  
-        Working on event cameras and robotics with Prof. Kostas Daniilidis.
 
         **Research Intern | Manycore Tech**    
         *August 2024 – November 2024 | Hangzhou, China*  

@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:gxzhao4@seas.upenn.edu'
+    url: 'mailto:gxzhao4@engineering.upenn.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/seerier
@@ -68,14 +68,6 @@ work:
     date_end: 2026-08-31
     summary: |
       Worked on agentic 3D scene generation and 3D asset generation.
-  - position: Research Intern
-    company_name: University of Pennsylvania
-    company_url: 'https://www.upenn.edu/'
-    company_logo: ''
-    date_start: 2025-12-01
-    date_end: ''
-    summary: |
-      Working on event cameras and robotics with Prof. Kostas Daniilidis.
   - position: Research Intern
     company_name: Manycore Tech
     company_url: ''
@@ -117,4 +109,4 @@ awards: []
 ---
 
 
-I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I work with Prof. Kostas Daniilidis on event-based vision and its applications in robotics. My broader research interests include Robotics, Computer Graphics, and Computer Vision.
+I’m Gaoxiang Zhao, a Master’s student in Robotics at the University of Pennsylvania. I currently work with Prof. Lingjie Liu on Graphics and Robot Learning. My broader research interests include Robotics, Computer Graphics, and Computer Vision.
