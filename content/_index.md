@@ -66,6 +66,8 @@ sections:
       filters:
         folders:
           - projects
+      sort_by: Weight
+      sort_ascending: true
     design:
       view: card
       fill_image: false
