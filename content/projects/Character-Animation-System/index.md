@@ -6,6 +6,7 @@ tags:
   - Kinematics
   - C++
 date: '2025-11-11'
+weight: 3
 external_link: ''
 
 # Featured image
