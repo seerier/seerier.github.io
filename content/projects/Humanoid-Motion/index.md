@@ -33,7 +33,7 @@ Built an end-to-end pipeline that turns human motion, from motion capture or a s
 
 Key technical contributions:
 - Retargeting with GMR plus per-clip audits: 77 LAFAN1 recordings are cut into 2,594 six-second windows, and 2,153 pass checks for foot penetration, IK branch flips, joint speed and torso mismatch.
-- Multi-motion PPO tracking policy in Isaac Lab (BeyondMimic environment) with failure-adaptive clip and phase sampling, trained for 22 h on one A40 with 4,096 parallel environments. It tracks 190 of 230 held-out test clips without a failure, from a single attempt per clip.
-- A second backend reproducing SuperMimic, which trains the tracking policy through a learned differentiable world model instead of with PPO, in MuJoCo Warp. On the same 1,062 training clips it completes 195 of 230 test clips after 6.4 h on one A40, with lower pose and drift errors.
+- Multi-motion PPO tracking policy in Isaac Lab (BeyondMimic environment) with failure-adaptive clip and phase sampling, trained with 4,096 parallel environments. It tracks 190 of 230 held-out test clips without a failure, from a single attempt per clip.
+- A second backend reproducing SuperMimic, which trains the tracking policy through a learned differentiable world model instead of with PPO, in MuJoCo Warp. Trained on the same 1,062 clips, it completes 195 of 230 test clips.
 - One offline scorer for both backends that reproduces the online Isaac evaluator exactly, plus the BeyondMimic policy running sim-to-sim in MuJoCo (190 of 230) for a same-engine comparison.
 - A video front end (GVHMR, a ground fix from stationary-foot labels, then GMR) whose references both trackers follow zero-shot.
