@@ -11,7 +11,7 @@ external_link: ''
 
 # Featured image
 image:
-  caption: 'One policy tracking six held-out LAFAN1 test clips on the Unitree G1'
+  caption: 'Human motion capture and the G1 policy: a cartwheel and a back handspring'
   focal_point: Smart
   filename: featured.png
   preview_only: true
@@ -22,6 +22,8 @@ links:
     name: Source Code
     url: https://github.com/seerier/Humanoid-Motion
 ---
+
+{{< video src="acrobatics.mp4" controls="yes" >}}
 
 {{< video src="teaser.mp4" controls="yes" >}}
 
@@ -37,3 +39,4 @@ Key technical contributions:
 - A second backend reproducing SuperMimic, which trains the tracking policy through a learned differentiable world model instead of with PPO, in MuJoCo Warp. Trained on the same 1,062 clips, it completes 195 of 230 test clips.
 - One offline scorer for both backends that reproduces the online Isaac evaluator exactly, plus the BeyondMimic policy running sim-to-sim in MuJoCo (190 of 230) for a same-engine comparison.
 - A video front end (GVHMR, a ground fix from stationary-foot labels, then GMR) whose references both trackers follow zero-shot.
+- Acrobatics: 13 segments from LAFAN1 and CMU motion capture (cartwheels, a kip-up, a backward roll, a side flip, backflips, a front handspring, breakdance flips), retargeted under a floor constraint on every collision geom of the robot and trained with the BeyondMimic backend. Four are tracked to the end: a cartwheel, a kip-up, a backward roll and a back handspring.
