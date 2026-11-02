@@ -18,6 +18,8 @@ sections:
           - projects
       sort_by: Weight
       sort_ascending: true
+      # 0 = show all projects (the block defaults to 5)
+      count: 0
     design:
       view: article-grid
       fill_image: false
