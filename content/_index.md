@@ -49,7 +49,7 @@ sections:
       title: '💼 Internship Experience'
       subtitle: ''
       text: |-
-        **Research Intern | Tencent**  
+        **Research Intern | Tencent LightSpeed Studios**  
         *June 2026 – August 2026 | Shenzhen, China*  
         Worked on agentic 3D scene generation and 3D asset generation.
 
