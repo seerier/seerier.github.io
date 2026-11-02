@@ -39,6 +39,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/seerier
     label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/gaoxiangzhao/
+    label: LinkedIn
 
 
 interests:
