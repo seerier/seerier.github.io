@@ -1,4 +1,10 @@
 ---
+# Hugo Blox example, kept as a format reference for future entries.
+# Never rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
 title: 🧠 Sharpen your thinking with a second brain
 summary: Create a personal knowledge base and share your knowledge with your peers.
 date: 2023-10-26

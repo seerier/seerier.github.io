@@ -1,4 +1,10 @@
 ---
+# Hugo Blox example, kept as a format reference for future entries.
+# Never rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
 title: 👩🏼‍🏫 Teach academic courses
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24

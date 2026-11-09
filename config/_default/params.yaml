@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: "Gaoxiang Zhao, Master's student in Robotics at the University of Pennsylvania, working on graphics and robot learning."
+    twitter: ''
   analytics:
     google_analytics: 'G-GNN30XMZZ4'
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Gaoxiang Zhao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

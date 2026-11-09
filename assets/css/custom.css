@@ -1,3 +1,8 @@
 #internship-experience .prose > p + p {
   margin-top: 2.5rem;
 }
+
+/* Keep the "Made with Hugo Blox" attribution, hide the "Clone this template" button. */
+.powered-by [data-hbx="poweredby_cta"] {
+  display: none;
+}

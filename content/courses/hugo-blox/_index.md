@@ -1,4 +1,15 @@
 ---
+# Hugo Blox example course, kept as a format reference for future courses.
+# Nothing under courses/hugo-blox/ is rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
+cascade:
+  build:
+    render: never
+    list: never
+    publishResources: false
 linkTitle: Hugo Blox
 title: Learn Hugo Blox in 10 minutes!
 date: 2025-09-24

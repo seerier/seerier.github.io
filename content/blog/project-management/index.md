@@ -1,4 +1,10 @@
 ---
+# Hugo Blox example, kept as a format reference for future entries.
+# Never rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
 title: ✅ Manage your projects
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2023-10-23

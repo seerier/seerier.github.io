@@ -1,4 +1,10 @@
 ---
+# Hugo Blox example, kept as a format reference for future entries.
+# Never rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
 title: "An example journal article"
 authors:
 - admin

@@ -1,4 +1,10 @@
 ---
+# Hugo Blox example, kept as a format reference for future entries.
+# Never rendered, listed, or published.
+build:
+  render: never
+  list: never
+  publishResources: false
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
